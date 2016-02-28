@@ -1,0 +1,26 @@
+{
+  "name": "maximfrolov/multiexception",
+  "version": "1.0.0",
+  "description": "Class library that implement the concept of multiexception",
+  "keywords": [
+    "php",
+    "library",
+    "multiple",
+    "exceptions"
+  ],
+  "type": "library",
+  "authors": [
+    {
+      "name": "Maxim Frolov",
+      "email": "frolov-max74@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "MaximFrolov\\MultiException\\": "lib/"
+    }
+  }
+}

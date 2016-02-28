@@ -1,10 +1,10 @@
 <?php
 
-namespace App;
+namespace MaximFrolov\MultiException;
 
 /**
  * Class MultiException
- * @package App
+ * @package MaximFrolov\MultiException
  */
 class MultiException
     extends \Exception

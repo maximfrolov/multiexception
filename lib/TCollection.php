@@ -1,10 +1,10 @@
 <?php
 
-namespace App;
+namespace MaximFrolov\MultiException;
 
 /**
- * Trait TCollection
- * @package App
+ * Class TCollection
+ * @package MaximFrolov\MultiException
  */
 trait TCollection
 {
